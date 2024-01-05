@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @furqank3qazi
+- 👋 Hi, I am Furqan Qazi
 - 👀 I’m interested in Creating Websites and Mobile Applications
 - 🌱 I’m currently learning Web & Mobile Application Development
 - 💞️ I’m looking to collaborate on Web Developments and Applications Development
+- Very soon I will publish my portfolio :)
 - 📫 How to reach me ... furqank3qazi@gmail.com
 
 <!---
